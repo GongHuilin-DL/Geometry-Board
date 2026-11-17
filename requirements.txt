@@ -1,0 +1,7 @@
+PySide6>=6.6
+asteval>=0.9.31
+numpy>=1.26
+pytest>=8.0
+pytest-qt>=4.4
+pyinstaller>=6.0
+# nuitka  # 发布阶段可选
